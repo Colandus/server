@@ -1,3 +1,5 @@
+-- Created by Colandus (@OTLand)
+
 local function shuffleTable(t)
 	local newTable = {}
 	for i = 1, #t do
